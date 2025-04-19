@@ -8,12 +8,12 @@ Repositori ini berisi kumpulan tugas mingguan, catatan, dan notebook yang dikerj
 ## 🗂️ Struktur Direktori
 
 Repositori ini dibagi ke dalam folder per minggu, dan setiap minggu berisi beberapa task. Setiap task dapat berisi notebook serta file pendukung seperti dataset.
-
+<!-- TREEVIEW START --
 ├── week/
 │   ├── task/
 │   │   └── filename/
 │       ├── csv/
-
+<!-- TREEVIEW END -->
 
 ---
 
