@@ -48,9 +48,9 @@ Repositori ini bertujuan untuk:
 | Week 2   | Task 1-2   | ✅ Selesai      |
 | Week 3   | Task 1-2   | ✅ Selesai      |
 | Week 4   | Task 1-3   | ✅ Selesai      |
-| Week 5   | Task 1-3   | 🚧 Dalam proses |
-| Week 6   | Task 1-3   | 🚧 Dalam proses |
-| Week 7   | Task 1-3   | 🚧 Dalam proses |
+| Week 5   | Task 1-3   | ✅ Selesai      |
+| Week 6   | Task 1-3   | ✅ Selesai      |
+| Week 7   | Task 1-3   | ✅ Selesai      |
 
 ---
 
